@@ -1,0 +1,27 @@
+html{
+    width: 1920px;
+    height: 1080px;
+}
+body {
+    background: linear-gradient(90deg, #5846f9 0%, #7b27d8 100%);
+    margin-top: 5%;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+}
+
+p {
+    font-weight: 400;
+}
+
+#text-section {
+    color: black;
+}
